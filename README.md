@@ -5,6 +5,9 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev) + reactnative
 ## Works
+- [早大生向け時間割アプリ「わせジュール」](https://wasedule.com) (※アプリ本体の開発、Webサイト作成、並びに運営を担当。リポジトリはprivate)
+- [早稲田大学コンピュータ研究会 公式Webページ](https://winc.ne.jp)
+- [秋田美術大学大学祭「あきび祭」 公式Webページ](https://akibisai.com)
 - [2021年度 都立本所高校文化祭 電子パンフレット](https://fesbrochure.web.app/#/)
 - [2022年度 都立本所高校文化祭 電子パンフレット](https://fes-catalog.web.app/)
 ## Stats
