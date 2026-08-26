@@ -1,8 +1,9 @@
 # SotaMatsui
 - Undergraduate at School of Political Science and Economics, Waseda University
-- Developing for fun at [@WINC1980](https://github.com/winc1980)
+- FE main - React / Flutter
+- Leading programming community in Waseda University [@WINC1980](https://github.com/winc1980)
+- Leading both development and business side of scheduling app [早大生向け時間割アプリ「わせジュール」](https://wasedule.com)
 - Intern at [GEOTRA](https://github.com/geotra-dev)
-- React/Flutter
 ## Works
 - [早大生向け時間割アプリ「わせジュール」](https://wasedule.com) (※アプリ本体の開発、Webサイト作成、並びに運営を担当。リポジトリはprivate)
 - [早稲田大学コンピュータ研究会 公式Webページ](https://winc.ne.jp) [リポジトリ](https://github.com/winc1980/winc-hp)
